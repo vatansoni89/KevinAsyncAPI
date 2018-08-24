@@ -1,0 +1,14 @@
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.deps.json
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.runtimeconfig.json
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.runtimeconfig.dev.json
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.dll
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.pdb
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.csprojAssemblyReference.cache
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.csproj.CoreCompileInputs.cache
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorAssemblyInfo.cache
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorAssemblyInfo.cs
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.AssemblyInfoInputs.cache
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.AssemblyInfo.cs
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorTargetAssemblyInfo.cache
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.dll
+c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.pdb
