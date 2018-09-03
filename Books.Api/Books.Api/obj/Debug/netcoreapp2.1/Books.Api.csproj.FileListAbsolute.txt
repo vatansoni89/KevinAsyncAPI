@@ -12,3 +12,17 @@ c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books
 c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorTargetAssemblyInfo.cache
 c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.dll
 c:\users\z003d4ks\source\repos\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.pdb
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.deps.json
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.runtimeconfig.json
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.runtimeconfig.dev.json
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.dll
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\bin\Debug\netcoreapp2.1\Books.Api.pdb
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.csprojAssemblyReference.cache
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.csproj.CoreCompileInputs.cache
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorAssemblyInfo.cache
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorAssemblyInfo.cs
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.AssemblyInfoInputs.cache
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.AssemblyInfo.cs
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.RazorTargetAssemblyInfo.cache
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.dll
+D:\Vatan\SoniProjects\KevinAsyncAPI\Books.Api\Books.Api\obj\Debug\netcoreapp2.1\Books.Api.pdb

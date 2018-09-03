@@ -22,6 +22,7 @@ namespace Books.Api.Services
 
         public async Task<IEnumerable<Book>> GetBooksAsync()
         {
+            _context.Database.ExecuteSqlCommand("WAITFOR DELAY '00:00:02';");
             return await _context.Books.Include(x=>x.Author).ToListAsync();
         }
 
@@ -45,6 +46,7 @@ namespace Books.Api.Services
 
         public IEnumerable<Book> GetBooks()
         {
+            _context.Database.ExecuteSqlCommand("WAITFOR DELAY '00:00:02';");
             return _context.Books.Include(x => x.Author).ToList();
         }
     }
